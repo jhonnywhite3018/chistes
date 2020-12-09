@@ -2,6 +2,23 @@
 
 —Ahora sí, ahora no, ahora sí, ahora no, ahora sí, ahora no…
 
+
+-----------------------------------------------------------------
+- ¿Eres informatico?
+- Si, dígame.
+- El plato de microondas no me gira desde que me instalaste el Office.
+- Te reviento. 
+=======
+
+-se abre el telon y aparece un chino tocando el arpa ¿Como se llama el actor?
+-alpa chino
+>>>>>>> f3783bac2415d8336b31a65ef5d74759a7f85c22
+=======
 - Mama que haces en frente de la computadora con los hojos cerrados???
 - Nada hijo es que Windows me dijo que cierre las pestañas
 
+<<<<<<< HEAD
+>>>>>>> 2295987de6cacf7be89bc0a70129772e63750bdd
+=======
+
+>>>>>>> f3783bac2415d8336b31a65ef5d74759a7f85c22
