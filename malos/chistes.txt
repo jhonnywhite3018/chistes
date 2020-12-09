@@ -1,6 +1,7 @@
 Si pongo una sabana por encima de un burro ¿que tengo?
 
                                             "Un burrito sabanero"
+<<<<<<< HEAD
 --
 
 - su currículum es un desastre. 
@@ -23,3 +24,7 @@ Yo: (con peluca) Ya, tía. Pero seguro que lo hacen por tu bien.
 + Tienes razón.
 
 - CAMARERO, 10 CROQUETAS MAS, PORFAVOR.
+=======
+
+Van dos y se cae el del medio.
+>>>>>>> 1451d0b8cb534cbcd0cb04fbc82ba0d2ed3b0de4
