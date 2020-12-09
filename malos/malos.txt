@@ -2,5 +2,11 @@
 
 —Ahora sí, ahora no, ahora sí, ahora no, ahora sí, ahora no…
 
+<<<<<<< HEAD
 -se abre el telon y aparece un chino tocando el arpa ¿Como se llama el actor?
 -alpa chino
+=======
+- Mama que haces en frente de la computadora con los hojos cerrados???
+- Nada hijo es que Windows me dijo que cierre las pestañas
+
+>>>>>>> 7369a23f258b49374faea2ce8d36557a5c02d893
