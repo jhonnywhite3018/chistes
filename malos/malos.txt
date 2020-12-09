@@ -2,8 +2,14 @@
 
 —Ahora sí, ahora no, ahora sí, ahora no, ahora sí, ahora no…
 
+<<<<<<< HEAD
 -----------------------------------------------------------------
 - ¿Eres informatico?
 - Si, dígame.
 - El plato de microondas no me gira desde que me instalaste el Office.
 - Te reviento. 
+=======
+- Mama que haces en frente de la computadora con los hojos cerrados???
+- Nada hijo es que Windows me dijo que cierre las pestañas
+
+>>>>>>> 2295987de6cacf7be89bc0a70129772e63750bdd
