@@ -14,11 +14,14 @@ Otro chiste de Joaquin:
 Chiste de Dani
 Qué son ocho bocabits? Un BocaByte
 
-Chiste de Jorge
+Chiste de Jorge / Corregido por Rubén
 Hay 10 tipos de personas.
-Los que saben de informática y los que no.
+Los que saben binario y los que no.
 =======
 Chiste Victor
 Colocaste un WHERE en el DELETE?
 
-
+Chiste de Rubén
+---------------
+¿Qué le dice una impresora a otra?
+-- ¿Esta hoja es tuya, o es impresión mia?
